@@ -1,5 +1,6 @@
 # Node modules
 /node_modules
+my-frontend/node_modules
 
 # Compilation output
 /dist
@@ -18,4 +19,3 @@
 
 # Hardhat coverage reports
 /coverage
-my-frontend/node_modules
